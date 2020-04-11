@@ -8,4 +8,4 @@ multiple phone numbers (common names or people with multiple phone numbers). You
 also be able to print out a list of all the names in alphabetical order or all the phone numbers in numeric
 order.
 
-Treemap from String(name) to ArrayList(numbers)(sorted)
+Treemap from String(name) to ArrayList(numbers)
