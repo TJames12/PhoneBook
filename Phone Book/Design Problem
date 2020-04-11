@@ -1,0 +1,11 @@
+Problem #6
+
+An online phone book company has hired you to implement their automated address book to store name
+and telephone number information on every household in town. The address book should be able to
+search by either name or telephone number, returning the other. Note that a telephone number may
+correspond to multiple people (everyone in the same household) and that a name may correspond to
+multiple phone numbers (common names or people with multiple phone numbers). Your system must
+also be able to print out a list of all the names in alphabetical order or all the phone numbers in numeric
+order.
+
+Treemap from String(name) to ArrayList(numbers)(sorted)
